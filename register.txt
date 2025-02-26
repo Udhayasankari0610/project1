@@ -1,1 +1,2 @@
-this is a register page 
+this is a register page to users into website 
+
